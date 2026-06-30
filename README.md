@@ -46,8 +46,6 @@ Kriptolojiye ilgi duyanlar için Mors alfabesini sıfırdan eğlenceli bir şeki
 
 ### Benimle İletişime Geçin
 
-Yeni projelerde iş birliği yapmak, freelance fırsatları değerlendirmek veya sadece kahve eşliğinde yazılım konuşmak için bana ulaşabilirsiniz:
-
 * 💼 **LinkedIn:** https://www.linkedin.com/in/tuğfan-çalışkan-4123ab408/
 * 📧 **E-posta:** tufancaliskan112@outlook.com
 <!--
