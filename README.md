@@ -5,7 +5,7 @@ Yazılım geliştirme dünyasında modern web teknolojileri ve yapay zeka entegr
 
 ### Öne Çıkan Projelerim
 
-#### Contra AI (Favori Projem)
+#### Contra AI 
 Şirketlerin ve bireysel kullanıcıların sözleşmelerini analiz ederek riskli noktaları tespit eden yapay zeka destekli bir sözleşme güvenliği platformu. (4 Kişilik Ekip Çalışması)
 * **Frontend Rolü:** Kullanıcı dostu analiz panelleri ve UI/UX süreçleri.
 * **Öne Çıkan Özellikler:** Kullanıcıya özel dinamik analiz politikası oluşturma, eski/yeni sözleşme karşılaştırma paneli ve politikalara uyarlı akıllı chatbot entegrasyonu.
