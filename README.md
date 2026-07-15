@@ -1,5 +1,5 @@
 
-Yazılım geliştirme dünyasında modern web teknolojileri ve yapay zeka entegrasyonları üzerine odaklanan bir Bilişim Sistemleri öğrencisiyim. Ekip çalışmasına yatkın, kullanıcı deneyimini (UI/UX) önemseyen ve problem çözmeyi seven bir frontend & full-stack geliştiriciyim.
+Yazılım geliştirme dünyasında modern web teknolojileri ve yapay zeka entegrasyonları üzerine odaklanan bir Bilişim Sistemleri öğrencisiyim. Ekip çalışmasına yatkın, kullanıcı deneyimini (UI/UX) önemseyen  frontend & full-stack geliştiriciyim.
 
 ---
 
